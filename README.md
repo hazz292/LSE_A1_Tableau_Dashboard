@@ -7,5 +7,6 @@ This is the repository for exploratory analysis conducted on a global supermarke
 Leveraging Excel, SQL, and Tableau to clean, wrangle data and create dashboard with compelling visualisations to present insights.
 
 Files include:
-Dashboard – to communicate insights to your audience.
-Report and recorded presentation – to communicate actionable insights to stakeholders to inform decision-making while describing the analytical approach.
+1. Dashboard – to communicate insights to your audience.
+
+2. Report and recorded presentation – to communicate actionable insights to stakeholders to inform decision-making while describing the analytical approach.
